@@ -1,4 +1,4 @@
-# 飞机战争游戏
-main()：plane/GameFrame.java
+# 椋炴満鎴樹簤娓告垙
+main() plane/GameFrame.java
 
 ![avatar](./Animation.gif)
